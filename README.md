@@ -62,6 +62,7 @@ Convergence distance: 1f (змінюється від 0f(float) -> 10f(float)) -
 
 </div>
 
-![mob3](https://github.com/Vlad-vt/PA2/assets/65038865/7d102b2a-6505-43c5-893c-2251e5c8e76e)
-![mob2](https://github.com/Vlad-vt/PA2/assets/65038865/86a2f8cb-abb0-4d02-83ba-880ed858dc45)
-![mob1](https://github.com/Vlad-vt/PA2/assets/65038865/e1bf0f5a-9e51-4830-b009-e649611422e9)
+![mob3](https://github.com/Vlad-vt/PA2/assets/65038865/0f5680a6-8121-421c-887b-5272bbbd095e)
+![mob2](https://github.com/Vlad-vt/PA2/assets/65038865/468ebff7-f2ab-4482-890b-d5f724323547)
+![mob1](https://github.com/Vlad-vt/PA2/assets/65038865/52aeaef9-be50-45e3-a0d5-441b3cb6dd99)
+
